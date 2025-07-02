@@ -43,4 +43,4 @@ Yep! Just edit the script and add extensions to the lists at the top.
 
 ---
 
-Made for lazy storage hunters. Enjoy! 
+Dont Forget To Add As Star!
