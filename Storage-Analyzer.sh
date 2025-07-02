@@ -1,5 +1,6 @@
 #!/bin/sh
-# storage-analyzer.sh: Quick storage scan for Termux/Android
+
+clear
 
 p="/sdcard"
 types="Vid Img Apk Aud Doc"
