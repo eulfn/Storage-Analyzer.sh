@@ -1,6 +1,6 @@
 # storage-analyzer.sh
 
-Quick and dirty storage analyzer for Android (Termux)
+Quick and dirty storage analyzer for Android (no root needed)
 
 ## What is this?
 A shell script that scans your `/sdcard` for big files—videos, images, APKs, audio, docs—and tells you how many you have and how much space they eat up. Output is sorted by size, so you know what's hogging your storage.
@@ -43,4 +43,4 @@ Yep! Just edit the script and add extensions to the lists at the top.
 
 ---
 
-Dont Forget To Add As Star!
+Don't Forget To Add As Star!
