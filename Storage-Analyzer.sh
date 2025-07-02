@@ -2,7 +2,7 @@
 
 clear
 
-p="/sdcard"
+p="/sdcard/"
 types="Vid Img Apk Aud Doc"
 ext_vid="mp4 mkv avi webm"
 ext_img="jpg jpeg png gif webp"
